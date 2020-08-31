@@ -7,7 +7,7 @@ Files needed for this exercise:
 
 - ex7.mlx - MATLAB Live Script that steps you through the exercise 
 
-- ex7.mlx - Guide of this exercise
+- ex7.pdf - Guide of this exercise
 
 - ex7data1.mat - Example Dataset for PCA 
 
