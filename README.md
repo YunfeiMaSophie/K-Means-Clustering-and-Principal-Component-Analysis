@@ -1,4 +1,5 @@
 # K-Means-Clustering-and-Principal-Component-Analysis
+
 In this exercise, I will implement the K-means clustering algorithm and apply it to compress an image. 
 
 In the second part, I will use principal component analysis to find a low-dimensional representation of face images. 
@@ -40,3 +41,7 @@ Files needed for this exercise:
 - computeCentroids.m - Compute centroid means (used in K-means) 
 
 - kMeansInitCentroids.m - Initialization for K-means centroids
+
+Programming Assignment 7 in Machine Learning course by Andrew Ng on Coursera
+
+The course info can be found here https://class.coursera.org/ml-004/class/index
